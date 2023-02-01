@@ -16,4 +16,4 @@ The script is run as follows
 
     python vocab_filter.py 500
     
-where 500 is the desired length of the lists. Text files named 'filtered_shuffled0', 'filtered_shuffled1' and so on will be generated in the same directory as the python script. Additionally, a file named 'ascending_hf_repeats' will contain the repeated words in descending order, where the rank is the frequency of repeat.
+where 500 is the desired length of the lists. This is only my preferred list length and one may change it to any whole number greater than zero. Text files named 'filtered_shuffled0', 'filtered_shuffled1' and so on will be generated in the same directory as the python script. Additionally, a file named 'ascending_hf_repeats' will contain the repeated words in descending order, where the rank is the frequency of repeat.
