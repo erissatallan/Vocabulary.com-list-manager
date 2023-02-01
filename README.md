@@ -12,5 +12,7 @@ Another useful feature is the automated creation of randomized lists of the user
 ## Execution
 The user pastes all the words from their vocab lists into the text file called 'all_words.'
 The script is run as follows
+
     python vocab_filter.py 500
+    
 where 500 is the desired length of the lists. Text files named 'filtered_shuffled0', 'filtered_shuffled1' and so on will be generated in the same directory as the python script. Additionally, a file named 'ascending_hf_repeats' will contain the repeated words in descending order, where the rank is the frequency of repeat.
