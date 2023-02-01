@@ -1,8 +1,11 @@
 # Vocabulary.com list manager
 
 Vocabulary.com is the most popular vocabulary trainer on the internet among learners of the English language and logophiles alike. Learners can create and curate lists of words to learn on their accounts. However, when lists become lengthy, there are two challenges:
+
     1. it is not easy to tell whether one has already included a word in one of their lists
+    
     2. one desires a more randomized practice routine than the order in which they input the words.
+    
 This python script offers a solution to both challenges.
 
 Furthermore, valuable statistics like the number of times a word has been repeated (indicating the relative difficulty in learning that word) will be generated when the script is executed.
